@@ -133,6 +133,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
+- [**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**](https://arxiv.org/abs/2508.11977), *2025.08*, ![](https://img.shields.io/badge/TBGRecall-blue) ![](https://img.shields.io/badge/Alibaba-orange)
+
 
 
 
