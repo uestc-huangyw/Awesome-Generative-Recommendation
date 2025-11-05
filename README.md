@@ -34,6 +34,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**](https://arxiv.org/abs/2507.22224v1), *2025.07*, ![](https://img.shields.io/badge/GRID-blue) ![](https://img.shields.io/badge/Snap-orange)
 
 
+- [**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**](https://arxiv.org/abs/2509.25522), *2025.09*, ![](https://img.shields.io/badge/Snap-orange)
+
+
 
 
 
@@ -49,6 +52,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**](https://arxiv.org/abs/2411.11739), *2024.11*, ![](https://img.shields.io/badge/QARM-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
+- [**Unified Semantic and ID Representation Learning for Deep Recommenders**](https://arxiv.org/abs/2502.16474), *2025.02*, ![](https://img.shields.io/badge/Meta-orange)
 
 
 
