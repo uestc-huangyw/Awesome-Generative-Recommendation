@@ -146,6 +146,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**](https://arxiv.org/abs/2509.03236v3), *2025.09*, ![](https://img.shields.io/badge/OneSearch-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
+- [**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**](https://arxiv.org/abs/2510.07784), *2025.10*, ![](https://img.shields.io/badge/PLUM-blue) ![](https://img.shields.io/badge/Google-orange)
+
 
 
 ## 👥 Contributors
