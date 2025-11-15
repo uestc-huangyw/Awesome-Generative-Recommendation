@@ -131,7 +131,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion**](https://arxiv.org/abs/2506.06913), *2025.06*, ![](https://img.shields.io/badge/OneSug-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
-- [**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**](https://arxiv.org/abs/2506.23643v1), *2025.06*, ![](https://img.shields.io/badge/CAR-blue) ![](https://img.shields.io/badge/Huawei-orange)
+- [**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**](https://arxiv.org/abs/2507.15551v3), *2025.07*, ![](https://img.shields.io/badge/RankMixer-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 
 
 - [**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**](https://arxiv.org/abs/2507.12704), *2025.07*, ![](https://img.shields.io/badge/PinFM-blue) ![](https://img.shields.io/badge/Pinterest-orange)
@@ -147,6 +147,13 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 - [**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**](https://arxiv.org/abs/2510.07784), *2025.10*, ![](https://img.shields.io/badge/PLUM-blue) ![](https://img.shields.io/badge/Google-orange)
+
+
+- [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138v1), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
+
+
+
+
 
 
 
