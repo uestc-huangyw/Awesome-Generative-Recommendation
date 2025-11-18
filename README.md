@@ -55,8 +55,6 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Unified Semantic and ID Representation Learning for Deep Recommenders**](https://arxiv.org/abs/2502.16474), *2025.02*, ![](https://img.shields.io/badge/Meta-orange)
 
 
-- [**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**](https://arxiv.org/abs/2507.22224), *2025.07*, ![](https://img.shields.io/badge/Snap-orange)
-
 
 
 
