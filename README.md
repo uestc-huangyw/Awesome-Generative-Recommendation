@@ -16,11 +16,15 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 ## 📚 Content
 
+- [🔍 Overview](#-overview)
+- [📚 Content](#-content)
 - [Analyses](#analyses)
 - [Tokenizer](#tokenizer)
 - [2023](#2023)
 - [2024](#2024)
 - [2025](#2025)
+- [👥 Contributors](#-contributors)
+- [⭐ Star History](#-star-history)
 
 
 ---
@@ -75,6 +79,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 
 - [**LEARN: Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**](https://arxiv.org/abs/2405.03988), *2024.05*, ![](https://img.shields.io/badge/LEARN-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+
+
+- [**EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration**](https://arxiv.org/abs/2406.14017), *2024.06*, ![](https://img.shields.io/badge/EAGER-blue) ![](https://img.shields.io/badge/ZJU-orange)
 
 
 - [**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**](https://arxiv.org/abs/2409.12740), *2024.09*, ![](https://img.shields.io/badge/HLLM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
