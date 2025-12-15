@@ -37,7 +37,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**](https://arxiv.org/abs/2509.25522), *2025.09*, ![](https://img.shields.io/badge/Snap-orange)
 
 
-
+- [**A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization**](https://www.preprints.org/manuscript/202512.0203), *2025.12*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
 
