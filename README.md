@@ -96,6 +96,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
   - [**OneRec Technical Report**](https://arxiv.org/abs/2506.13695), *2025.06*
   - [**OneRec-V2 Technical Report**](https://arxiv.org/pdf/2508.20900), *2025.08*
   - [**OneRec-Think: In-Text Reasoning for Generative Recommendation**](https://arxiv.org/abs/2510.11639v1), *2025.10*
+  - [**OpenOneRec Technical Report**](https://arxiv.org/abs/2512.24762), *2025.12*
 
 
 
