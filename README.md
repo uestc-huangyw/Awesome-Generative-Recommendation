@@ -151,7 +151,12 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**](https://arxiv.org/abs/2510.07784), *2025.10*, ![](https://img.shields.io/badge/PLUM-blue) ![](https://img.shields.io/badge/Google-orange)
 
 
+- [**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**](https://arxiv.org/abs/2510.26104), *2025.10*, ![](https://img.shields.io/badge/OneTrans-blue) ![](https://img.shields.io/badge/ByteDance-orange)
+
+
 - [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138v1), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
+
+
 
 
 
