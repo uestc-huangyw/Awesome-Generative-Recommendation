@@ -91,7 +91,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**OpenOneRec Technical Report**](https://arxiv.org/abs/2512.24762), *2025.12*, ![](https://img.shields.io/badge/OpenOneRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**](https://arxiv.org/abs/2512.22386), *2025.12*, ![](https://img.shields.io/badge/OxygenREC-blue) ![](https://img.shields.io/badge/JD-orange)
 - [**RecGPT-V2 Technical Report**](https://arxiv.org/abs/2512.14503), *2025.12*, ![](https://img.shields.io/badge/RecGPTv2-blue) ![](https://img.shields.io/badge/Alibaba-orange)
-- [**Align$^3$GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation**](https://arxiv.org/abs/2511.11255), *2025.11*, ![](https://img.shields.io/badge/Align3GR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**Align3GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation**](https://arxiv.org/abs/2511.11255), *2025.11*, ![](https://img.shields.io/badge/Align3GR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneRec-Think: In-Text Reasoning for Generative Recommendation**](https://arxiv.org/abs/2510.11639v1), *2025.10*, ![](https://img.shields.io/badge/OneRec_Think-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**](https://arxiv.org/abs/2510.07784), *2025.10*, ![](https://img.shields.io/badge/PLUM-blue) ![](https://img.shields.io/badge/Google-orange)
 - [**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**](https://arxiv.org/abs/2509.18091), *2025.09*, ![](https://img.shields.io/badge/OnePiece-blue) ![](https://img.shields.io/badge/Shopee-orange)
@@ -106,6 +106,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers on unified end-to-end generative recommendation frameworks
 
+- [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
 - [**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**](https://arxiv.org/abs/2509.21777), *2025.09*, ![](https://img.shields.io/badge/SynerGen-blue) ![](https://img.shields.io/badge/Amazon-orange)
 - [**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**](https://arxiv.org/abs/2509.03236v3), *2025.09*, ![](https://img.shields.io/badge/OneSearch-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
