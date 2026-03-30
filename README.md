@@ -153,6 +153,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Semantic ID papers
 
+- [**Differentiable Geometric Indexing for End-to-End Generative Retrieval**](https://arxiv.org/abs/2603.10409), *2026.03*, ![](https://img.shields.io/badge/DGI-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**](https://arxiv.org/abs/2603.00632), *2026.03*, ![](https://img.shields.io/badge/QuaSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation**](https://arxiv.org/abs/2602.08530), *2026.02*, ![](https://img.shields.io/badge/PIT-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**](https://arxiv.org/abs/2601.22694), *2026.01*, ![](https://img.shields.io/badge/TRM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
