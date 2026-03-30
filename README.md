@@ -107,6 +107,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers on unified end-to-end generative recommendation frameworks
 
+- [**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**](https://arxiv.org/abs/2603.24422), *2026.03*, ![](https://img.shields.io/badge/OneSearch_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
 - [**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**](https://arxiv.org/abs/2509.21777), *2025.09*, ![](https://img.shields.io/badge/SynerGen-blue) ![](https://img.shields.io/badge/Amazon-orange)
@@ -154,6 +155,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 - [**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**](https://arxiv.org/abs/2603.00632), *2026.03*, ![](https://img.shields.io/badge/QuaSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation**](https://arxiv.org/abs/2602.08530), *2026.02*, ![](https://img.shields.io/badge/PIT-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**](https://arxiv.org/abs/2601.22694), *2026.01*, ![](https://img.shields.io/badge/TRM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation**](https://arxiv.org/abs/2601.20199), *2026.01*, ![](https://img.shields.io/badge/MERGE-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation**](https://arxiv.org/abs/2511.22707), *2025.11*, ![](https://img.shields.io/badge/CoFiRec-blue) ![](https://img.shields.io/badge/Meta-orange)
 - [**FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets**](https://arxiv.org/abs/2509.20904), *2025.09*, ![](https://img.shields.io/badge/FORGE-blue) ![](https://img.shields.io/badge/Alibaba-orange)
