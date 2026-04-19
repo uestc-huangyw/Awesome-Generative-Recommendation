@@ -51,6 +51,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 > Papers on model architectures, backbone design, and scaling for generative recommendation / sequence modeling
 
 - [**Bending the Scaling Law Curve in Large-Scale Recommendation Systems**](https://arxiv.org/abs/2602.16986), *2026.02*, ![](https://img.shields.io/badge/ULTRA_HSTU-blue) ![](https://img.shields.io/badge/Meta-orange)
+- [**GEMs: Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder**](https://arxiv.org/abs/2602.13631), *2026.02*, ![](https://img.shields.io/badge/GEMs-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders**](https://arxiv.org/abs/2602.06563), *2026.02*, ![](https://img.shields.io/badge/TokenMixer_Large-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction**](https://arxiv.org/abs/2601.12681), *2026.01*, ![](https://img.shields.io/badge/HyFormer-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**Make It Long, Keep It Fast: End-to-End 10k-Sequence Modeling at Billion Scale on Douyin**](https://arxiv.org/abs/2511.06077), *2025.11*,  ![](https://img.shields.io/badge/ByteDance-orange)
@@ -78,8 +79,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers that explore diffusion-based generative paradigms for recommendation
 
+- [**Masked Diffusion Generative Recommendation**](https://arxiv.org/abs/2601.19501), *2026.01*, ![](https://img.shields.io/badge/Alibaba-orange)
 - [**MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation**](https://arxiv.org/abs/2511.12597), *2025.11*, ![](https://img.shields.io/badge/MindRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
-
 - [**DiffGRM: Diffusion-based Generative Recommendation Model**](https://arxiv.org/abs/2510.21805), *2025.10*, ![](https://img.shields.io/badge/DiffGRM-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
@@ -139,6 +140,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Generative Retrieval papers
 
+- [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Amazon-orange)
 - [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**](https://arxiv.org/abs/2508.11977), *2025.08*, ![](https://img.shields.io/badge/TBGRecall-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**](https://arxiv.org/abs/2506.15267), *2025.06*, ![](https://img.shields.io/badge/Next_User_Retrieval-blue) ![](https://img.shields.io/badge/ByteDance-orange)
@@ -153,8 +155,10 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Semantic ID papers
 
+- [**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**](https://arxiv.org/abs/2604.11440), *2026.04*, ![](https://img.shields.io/badge/R3--VAE-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**Differentiable Geometric Indexing for End-to-End Generative Retrieval**](https://arxiv.org/abs/2603.10409), *2026.03*, ![](https://img.shields.io/badge/DGI-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**](https://arxiv.org/abs/2603.00632), *2026.03*, ![](https://img.shields.io/badge/QuaSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**QARM V2: Quantitative Alignment Multi-Modal Recommendation for Reasoning User Sequence Modeling**](https://arxiv.org/abs/2602.08559), *2026.02*, ![](https://img.shields.io/badge/QARM_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation**](https://arxiv.org/abs/2602.08530), *2026.02*, ![](https://img.shields.io/badge/PIT-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**](https://arxiv.org/abs/2601.22694), *2026.01*, ![](https://img.shields.io/badge/TRM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation**](https://arxiv.org/abs/2601.20199), *2026.01*, ![](https://img.shields.io/badge/MERGE-blue) ![](https://img.shields.io/badge/ByteDance-orange)
