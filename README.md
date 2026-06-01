@@ -141,6 +141,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 > Generative Retrieval papers
 
 - [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Amazon-orange)
+- [**OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation**](https://arxiv.org/abs/2602.08612), *2026.02*, ![](https://img.shields.io/badge/OneLive-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**](https://arxiv.org/abs/2508.11977), *2025.08*, ![](https://img.shields.io/badge/TBGRecall-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**](https://arxiv.org/abs/2506.15267), *2025.06*, ![](https://img.shields.io/badge/Next_User_Retrieval-blue) ![](https://img.shields.io/badge/ByteDance-orange)
@@ -160,6 +161,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**](https://arxiv.org/abs/2603.00632), *2026.03*, ![](https://img.shields.io/badge/QuaSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**QARM V2: Quantitative Alignment Multi-Modal Recommendation for Reasoning User Sequence Modeling**](https://arxiv.org/abs/2602.08559), *2026.02*, ![](https://img.shields.io/badge/QARM_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PIT: A Dynamic Personalized Item Tokenizer for End-to-End Generative Recommendation**](https://arxiv.org/abs/2602.08530), *2026.02*, ![](https://img.shields.io/badge/PIT-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer**](https://arxiv.org/abs/2602.23978), *2026.02*, ![](https://img.shields.io/badge/SA2CRQ-blue) ![](https://img.shields.io/badge/JD-orange)
 - [**Farewell to Item IDs: Unlocking the Scaling Potential of Large Ranking Models via Semantic Tokens**](https://arxiv.org/abs/2601.22694), *2026.01*, ![](https://img.shields.io/badge/TRM-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation**](https://arxiv.org/abs/2601.20199), *2026.01*, ![](https://img.shields.io/badge/MERGE-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation**](https://arxiv.org/abs/2511.22707), *2025.11*, ![](https://img.shields.io/badge/CoFiRec-blue) ![](https://img.shields.io/badge/Meta-orange)
