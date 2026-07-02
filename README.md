@@ -38,11 +38,11 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Survey papers, technical analyses, and perspective articles on generative recommendation
 
-- [**How Well Does Generative Recommendation Generalize?**](https://arxiv.org/abs/2603.19809v1), *2026.03*, ![](https://img.shields.io/badge/Meta-orange)
+- [**How Well Does Generative Recommendation Generalize?**](https://arxiv.org/abs/2603.19809), *2026.03*, ![](https://img.shields.io/badge/Meta-orange)
 - [**A Survey of Generative Recommendation from a Tri-Decoupled Perspective: Tokenization, Architecture, and Optimization**](https://www.preprints.org/manuscript/202512.0203), *2025.12*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Understanding Generative Recommendation with Semantic IDs from a Model-scaling View**](https://arxiv.org/abs/2509.25522), *2025.09*, ![](https://img.shields.io/badge/Snap-orange)
-- [**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**](https://arxiv.org/abs/2507.22224v1), *2025.07*, ![](https://img.shields.io/badge/GRID-blue) ![](https://img.shields.io/badge/Snap-orange)
-- [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507v2), *2025.07*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Alibaba-orange)
+- [**Generative Recommendation with Semantic IDs: A Practitioner's Handbook**](https://arxiv.org/abs/2507.22224), *2025.07*, ![](https://img.shields.io/badge/GRID-blue) ![](https://img.shields.io/badge/Snap-orange)
+- [**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**](https://arxiv.org/abs/2507.06507), *2025.07*, ![](https://img.shields.io/badge/Survey-red) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
 
@@ -57,7 +57,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**Make It Long, Keep It Fast: End-to-End 10k-Sequence Modeling at Billion Scale on Douyin**](https://arxiv.org/abs/2511.06077), *2025.11*,  ![](https://img.shields.io/badge/ByteDance-orange)
 - [**HHFT: Hierarchical Heterogeneous Feature Transformer for Recommendation Systems**](https://arxiv.org/abs/2511.20235), *2025.11*, ![](https://img.shields.io/badge/HHFT-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender**](https://arxiv.org/abs/2510.26104), *2025.10*, ![](https://img.shields.io/badge/OneTrans-blue) ![](https://img.shields.io/badge/ByteDance-orange)
-- [**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**](https://arxiv.org/abs/2507.15551v3), *2025.07*, ![](https://img.shields.io/badge/RankMixer-blue) ![](https://img.shields.io/badge/ByteDance-orange)
+- [**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**](https://arxiv.org/abs/2507.15551), *2025.07*, ![](https://img.shields.io/badge/RankMixer-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**](https://arxiv.org/abs/2506.03699), *2025.06*, ![](https://img.shields.io/badge/GPSD-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders**](https://arxiv.org/abs/2505.04421), *2025.05*, ![](https://img.shields.io/badge/LONGER-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations**](https://arxiv.org/abs/2402.17152), *2024.02*, ![](https://img.shields.io/badge/HSTU-blue) ![](https://img.shields.io/badge/Meta-orange)
@@ -70,7 +70,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 - [**A Soft-partitioned Semi-supervised Collaborative Transfer Learning Approach for Multi-Domain Recommendation**](https://arxiv.org/abs/2511.01404), *2025.11*, ![](https://img.shields.io/badge/SSCTL-blue) ![](https://img.shields.io/badge/Meituan-orange)
 
-- [**Cross-Scenario Unified Modeling of User Interests at Billion Scale**](https://arxiv.org/abs/2510.14788v1), *2025.10*, ![](https://img.shields.io/badge/RED_Rec-blue) ![](https://img.shields.io/badge/Xiaohongshu-orange)
+- [**Cross-Scenario Unified Modeling of User Interests at Billion Scale**](https://arxiv.org/abs/2510.14788), *2025.10*, ![](https://img.shields.io/badge/RED_Rec-blue) ![](https://img.shields.io/badge/Xiaohongshu-orange)
 - [**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**](https://arxiv.org/abs/2502.08309), *2025.02*, ![](https://img.shields.io/badge/LUM-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 
 
@@ -89,12 +89,12 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers that leverage LLMs or foundation models for generative recommendation
 
-- [**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**](https://arxiv.org/abs/2602.22913v1), *2026.02*, ![](https://img.shields.io/badge/SIGMA-blue) ![](https://img.shields.io/badge/Alibaba-orange)
+- [**SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress**](https://arxiv.org/abs/2602.22913), *2026.02*, ![](https://img.shields.io/badge/SIGMA-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**OpenOneRec Technical Report**](https://arxiv.org/abs/2512.24762), *2025.12*, ![](https://img.shields.io/badge/OpenOneRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation**](https://arxiv.org/abs/2512.22386), *2025.12*, ![](https://img.shields.io/badge/OxygenREC-blue) ![](https://img.shields.io/badge/JD-orange)
 - [**RecGPT-V2 Technical Report**](https://arxiv.org/abs/2512.14503), *2025.12*, ![](https://img.shields.io/badge/RecGPTv2-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Align3GR: Unified Multi-Level Alignment for LLM-based Generative Recommendation**](https://arxiv.org/abs/2511.11255), *2025.11*, ![](https://img.shields.io/badge/Align3GR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
-- [**OneRec-Think: In-Text Reasoning for Generative Recommendation**](https://arxiv.org/abs/2510.11639v1), *2025.10*, ![](https://img.shields.io/badge/OneRec_Think-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**OneRec-Think: In-Text Reasoning for Generative Recommendation**](https://arxiv.org/abs/2510.11639), *2025.10*, ![](https://img.shields.io/badge/OneRec_Think-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations**](https://arxiv.org/abs/2510.07784), *2025.10*, ![](https://img.shields.io/badge/PLUM-blue) ![](https://img.shields.io/badge/Google-orange)
 - [**OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System**](https://arxiv.org/abs/2509.18091), *2025.09*, ![](https://img.shields.io/badge/OnePiece-blue) ![](https://img.shields.io/badge/Shopee-orange)
 - [**HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation**](https://arxiv.org/abs/2508.18118), *2025.08*, ![](https://img.shields.io/badge/HLLM_Creator-blue) ![](https://img.shields.io/badge/ByteDance-orange)
@@ -112,7 +112,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
 - [**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**](https://arxiv.org/abs/2509.21777), *2025.09*, ![](https://img.shields.io/badge/SynerGen-blue) ![](https://img.shields.io/badge/Amazon-orange)
-- [**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**](https://arxiv.org/abs/2509.03236v3), *2025.09*, ![](https://img.shields.io/badge/OneSearch-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search**](https://arxiv.org/abs/2509.03236), *2025.09*, ![](https://img.shields.io/badge/OneSearch-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneRec-V2 Technical Report**](https://arxiv.org/abs/2508.20900), *2025.08*, ![](https://img.shields.io/badge/OneRec_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**RecGPT Technical Report**](https://arxiv.org/abs/2507.22879), *2025.07*, ![](https://img.shields.io/badge/RecGPT-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**OneRec Technical Report**](https://arxiv.org/abs/2506.13695), *2025.06*, ![](https://img.shields.io/badge/OneRec_TR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
@@ -142,7 +142,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 - [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Amazon-orange)
 - [**OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation**](https://arxiv.org/abs/2602.08612), *2026.02*, ![](https://img.shields.io/badge/OneLive-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
-- [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646v1), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios**](https://arxiv.org/abs/2508.11977), *2025.08*, ![](https://img.shields.io/badge/TBGRecall-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**](https://arxiv.org/abs/2506.15267), *2025.06*, ![](https://img.shields.io/badge/Next_User_Retrieval-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems**](https://arxiv.org/abs/2504.10507), *2025.04*, ![](https://img.shields.io/badge/PinRec-blue) ![](https://img.shields.io/badge/Pinterest-orange)
@@ -156,6 +156,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Semantic ID papers
 
+- [**TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems**](https://arxiv.org/abs/2606.25147), *2026.06*, ![](https://img.shields.io/badge/TokenMinds-blue) ![](https://img.shields.io/badge/YouTube-orange)
 - [**R3-VAE: Reference Vector-Guided Rating Residual Quantization VAE for Generative Recommendation**](https://arxiv.org/abs/2604.11440), *2026.04*, ![](https://img.shields.io/badge/R3--VAE-blue) ![](https://img.shields.io/badge/ByteDance-orange)
 - [**Differentiable Geometric Indexing for End-to-End Generative Retrieval**](https://arxiv.org/abs/2603.10409), *2026.03*, ![](https://img.shields.io/badge/DGI-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**](https://arxiv.org/abs/2603.00632), *2026.03*, ![](https://img.shields.io/badge/QuaSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
