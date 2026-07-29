@@ -109,6 +109,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 > Papers on unified end-to-end generative recommendation frameworks
 
 - [**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**](https://arxiv.org/abs/2603.24422), *2026.03*, ![](https://img.shields.io/badge/OneSearch_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+- [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.02*, ![](https://img.shields.io/badge/GR4Ads-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation**](https://arxiv.org/abs/2511.10138), *2025.11*, ![](https://img.shields.io/badge/GPR-blue) ![](https://img.shields.io/badge/Tencent-orange)
 - [**SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation**](https://arxiv.org/abs/2509.21777), *2025.09*, ![](https://img.shields.io/badge/SynerGen-blue) ![](https://img.shields.io/badge/Amazon-orange)
@@ -128,6 +129,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Generative Ranking papers
 
+- [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Shopee-orange)
 - [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.02*, ![](https://img.shields.io/badge/GR4AD-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**](https://arxiv.org/abs/2505.18654), *2025.05*, ![](https://img.shields.io/badge/MTGR-blue) ![](https://img.shields.io/badge/Meituan-orange)
 - [**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**](https://arxiv.org/abs/2505.16752), *2025.05*, ![](https://img.shields.io/badge/DFGR-blue) ![](https://img.shields.io/badge/Meituan-orange)
