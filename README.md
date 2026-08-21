@@ -26,6 +26,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [Diffusion-based](#diffusion-based)
 - [LLM-based](#llm-based)
 - [One Model](#one-model)
+- [Post Train](#post-train)
 - [Ranking](#ranking)
 - [Retrieval](#retrieval)
 - [Semantic ID](#semantic-id)
@@ -50,6 +51,9 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers on model architectures, backbone design, and scaling for generative recommendation / sequence modeling
 
+- [**SPARC: Sequence-aware Progressive Attribute Routing and Compression Framework for Generative Recommendation**](https://arxiv.org/abs/2607.25339), *2026.07*, ![](https://img.shields.io/badge/SPARC-blue) ![](https://img.shields.io/badge/Alibaba-orange)
+- [**SlimPer: Make Personalization Model Slim and Smart**](https://arxiv.org/abs/2607.12281), *2026.07*, ![](https://img.shields.io/badge/SlimPer-blue) ![](https://img.shields.io/badge/Meta-orange)
+- [**UxSID: Semantic-Aware User Interests Modeling for Ultra-Long Sequence**](https://arxiv.org/abs/2605.09040), *2026.05*, ![](https://img.shields.io/badge/UxSID-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Bending the Scaling Law Curve in Large-Scale Recommendation Systems**](https://arxiv.org/abs/2602.16986), *2026.02*, ![](https://img.shields.io/badge/ULTRA_HSTU-blue) ![](https://img.shields.io/badge/Meta-orange)
 - [**GEMs: Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder**](https://arxiv.org/abs/2602.13631), *2026.02*, ![](https://img.shields.io/badge/GEMs-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders**](https://arxiv.org/abs/2602.06563), *2026.02*, ![](https://img.shields.io/badge/TokenMixer_Large-blue) ![](https://img.shields.io/badge/ByteDance-orange)
@@ -79,7 +83,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers that explore diffusion-based generative paradigms for recommendation
 
-- [**Masked Diffusion Generative Recommendation**](https://arxiv.org/abs/2601.19501), *2026.01*, ![](https://img.shields.io/badge/Alibaba-orange)
+- [**Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion**](https://arxiv.org/abs/2603.06397), *2026.03*, ![](https://img.shields.io/badge/R4T-blue) ![](https://img.shields.io/badge/Google-orange)
+- [**Masked Diffusion Generative Recommendation**](https://arxiv.org/abs/2601.19501), *2026.01*, ![](https://img.shields.io/badge/MDGR-blue) ![](https://img.shields.io/badge/Alibaba-orange)
 - [**MindRec: A Diffusion-driven Coarse-to-Fine Paradigm for Generative Recommendation**](https://arxiv.org/abs/2511.12597), *2025.11*, ![](https://img.shields.io/badge/MindRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**DiffGRM: Diffusion-based Generative Recommendation Model**](https://arxiv.org/abs/2510.21805), *2025.10*, ![](https://img.shields.io/badge/DiffGRM-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
@@ -108,6 +113,8 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Papers on unified end-to-end generative recommendation frameworks
 
+- [**UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale**](https://arxiv.org/abs/2606.00422), *2026.06*, ![](https://img.shields.io/badge/UniPinRec-blue) ![](https://img.shields.io/badge/Pinterest-orange)
+- [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.06*, ![](https://img.shields.io/badge/GR4AD-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**](https://arxiv.org/abs/2603.24422), *2026.03*, ![](https://img.shields.io/badge/OneSearch_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.02*, ![](https://img.shields.io/badge/GR4Ads-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
@@ -122,6 +129,14 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 - [**EGA-V2: An End-to-end Generative Framework for Industrial Advertising**](https://arxiv.org/abs/2505.17549), *2025.05*, ![](https://img.shields.io/badge/EGA_V2-blue) ![](https://img.shields.io/badge/Meituan-orange)
 - [**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**](https://arxiv.org/abs/2503.02453), *2025.03*, ![](https://img.shields.io/badge/COBRA-blue) ![](https://img.shields.io/badge/Baidu-orange)
 - [**OneRec: Unifying Retrieve and Rank with Generative Recommender and Iterative Preference Alignment**](https://arxiv.org/abs/2502.18965), *2025.02*, ![](https://img.shields.io/badge/OneRec-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
+
+
+
+## Post Train
+
+> Papers on post-training techniques (preference alignment, RLHF, reward modeling) for generative recommendation
+
+- [**Reward Guided Decoding for Generative Recommendation**](https://arxiv.org/abs/2607.25344), *2026.07*, ![](https://img.shields.io/badge/RGD-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 
 
 
@@ -142,6 +157,7 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 > Generative Retrieval papers
 
+- [**Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation**](https://arxiv.org/abs/2607.26500), *2026.07*, ![](https://img.shields.io/badge/Multi_Decoder-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Amazon-orange)
 - [**OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation**](https://arxiv.org/abs/2602.08612), *2026.02*, ![](https://img.shields.io/badge/OneLive-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service**](https://arxiv.org/abs/2508.14646), *2025.08*, ![](https://img.shields.io/badge/OneLoc-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
