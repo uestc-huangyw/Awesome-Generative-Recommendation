@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
-    <a href="https://github.com/uestc-huangyw/Awesome-Generative-Recommendation/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/uestc-huangyw/Awesome-Generative-Recommendation"></a>
+    <a href="https://github.com/uestc-huangyw/Awesome-Generative-Recommendation/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/uestc-huangyw/Awesome-Generative-Recommendation"></a>
     <img src="https://img.shields.io/github/last-commit/uestc-huangyw/Awesome-Generative-Recommendation/main?logo=github&color=blue" alt="GitHub last commit (branch)">
     <img src="https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat" alt="Static Badge">
 </p>
@@ -114,7 +114,6 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 > Papers on unified end-to-end generative recommendation frameworks
 
 - [**UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale**](https://arxiv.org/abs/2606.00422), *2026.06*, ![](https://img.shields.io/badge/UniPinRec-blue) ![](https://img.shields.io/badge/Pinterest-orange)
-- [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.06*, ![](https://img.shields.io/badge/GR4AD-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**OneSearch-V2: The Latent Reasoning Enhanced Self-distillation Generative Search Framework**](https://arxiv.org/abs/2603.24422), *2026.03*, ![](https://img.shields.io/badge/OneSearch_V2-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.02*, ![](https://img.shields.io/badge/GR4Ads-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**DualGR: Generative Retrieval with Long and Short-Term Interests Modeling**](https://arxiv.org/abs/2511.12518), *2025.11*, ![](https://img.shields.io/badge/DualGR-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
@@ -145,7 +144,6 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 > Generative Ranking papers
 
 - [**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**](https://arxiv.org/abs/2604.12234), *2026.04*, ![](https://img.shields.io/badge/UniRec-blue) ![](https://img.shields.io/badge/Shopee-orange)
-- [**Generative Recommendation for Large-Scale Advertising**](https://arxiv.org/abs/2602.22732), *2026.02*, ![](https://img.shields.io/badge/GR4AD-blue) ![](https://img.shields.io/badge/Kuaishou-orange)
 - [**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**](https://arxiv.org/abs/2505.18654), *2025.05*, ![](https://img.shields.io/badge/MTGR-blue) ![](https://img.shields.io/badge/Meituan-orange)
 - [**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**](https://arxiv.org/abs/2505.16752), *2025.05*, ![](https://img.shields.io/badge/DFGR-blue) ![](https://img.shields.io/badge/Meituan-orange)
 - [**MTGRBoost: Boosting Large-scale Generative Recommendation Models in Meituan**](https://arxiv.org/abs/2505.12663), *2025.05*, ![](https://img.shields.io/badge/MTGRBoost-blue) ![](https://img.shields.io/badge/Meituan-orange)
