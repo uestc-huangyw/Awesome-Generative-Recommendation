@@ -201,4 +201,10 @@ This repository is a curated list of **Awesome Generative Recommendation** paper
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=uestc-huangyw/Awesome-Generative-Recommendation&type=Date)](https://star-history.com/#uestc-huangyw/Awesome-Generative-Recommendation&Date)
+<a href="https://www.star-history.com/?type=date&repos=uestc-huangyw%2FAwesome-Generative-Recommendation">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=uestc-huangyw/Awesome-Generative-Recommendation&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=uestc-huangyw/Awesome-Generative-Recommendation&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=uestc-huangyw/Awesome-Generative-Recommendation&type=date&legend=top-left" />
+ </picture>
+</a>
